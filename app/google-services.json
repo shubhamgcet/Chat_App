@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "166597010930",
+    "firebase_url": "https://chatapp-a7832.firebaseio.com",
+    "project_id": "chatapp-a7832",
+    "storage_bucket": "chatapp-a7832.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166597010930:android:e1da3be45f2c9231",
+        "android_client_info": {
+          "package_name": "shubham.com.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166597010930-bs63ie367mah33tc52q3al8g47t2kt10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNrnzdOjFcsGW9isC4-izfuLRZloas5io"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
